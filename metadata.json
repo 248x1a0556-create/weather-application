@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast - Smart Weather Application",
+  "description": "Modern weather application featuring real-time meteorological data, multi-day forecasts, saved cities, customized units, and complete Flutter code export.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
